@@ -1,0 +1,70 @@
+body{
+    min-width: 100%;
+    min-height: 100%;
+    font-family:'Poppins', sans-serif;
+}
+.sample{
+    min-width: 100%;
+    min-height: 100%;
+    display: inline-flex;
+}
+.picture{
+    max-width: 60%;
+    
+}
+.box{
+   width: 40%;
+   
+}
+.login{
+    margin: 100px 20px 50px 200px;
+    text-align: center;
+    float: left;
+    background-color: #FFC200;
+    color: black;
+    padding: 12px 20px;
+    border: 0px;
+    
+}
+.su{
+    margin: 100px 80px 0px 0px;
+    text-align: center;
+    background-color: #FFC200;
+    color: black;
+    padding: 12px 20px;
+    border: 0px;
+    
+}
+p{
+    margin: 10px 20px 10px 20px;
+}
+
+h2,h4{
+    text-align: center;
+  
+}
+.TB{
+    text-align: center;
+
+}
+input[type=email]{
+    text-align:left;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+input[type=password]{
+    text-align: left;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.submit{
+    border-radius: 15px;
+    text-align: center;
+    border:0px;
+    width: 200px;
+    background-color: #FFC200;
+    cursor: pointer;
+    padding: 10px;
+}
